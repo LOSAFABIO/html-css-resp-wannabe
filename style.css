@@ -95,7 +95,13 @@ img {
   #lezioni,#steps,#why{
     padding: 10px;
   }
-
+  img{
+    height: 120px;
+    margin-top: 15px;
+  }
+  #why .row .first,#why .row .second,#why .row .third{
+    margin-top: 10px;
+  }
 }
 
 @media screen and (min-width:421px) and (max-width:1024px) {
